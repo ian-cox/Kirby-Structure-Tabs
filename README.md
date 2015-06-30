@@ -1,2 +1,2 @@
-# Kirby-Structure-Group
+# Kirby-Structure-Tabs
 Tabbed Fields for Structured Content
