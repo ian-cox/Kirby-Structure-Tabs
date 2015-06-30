@@ -1,7 +1,7 @@
 # Kirby-Structure-Tabs
 Tabbed Fields for Structured Content
 
-![Alt text](/structure-tabs.gif)
+![Structure Tabs](/structure-tabs.gif)
 
 #### Blueprint Example
 ``` YAML
