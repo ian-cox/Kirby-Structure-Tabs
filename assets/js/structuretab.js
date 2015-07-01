@@ -6,9 +6,11 @@
     }
 
     function initModalModules() {
+      
     if ($('.modal-content input.structuretab').length)
 
-      if ($(".modal-content").length){    
+      if ($(".modal-content").length){
+          $('.modal-content').removeClass("modal-content-fixed");
           $(".modal-content .form").prepend($("<ul></ul>").addClass("tabs"));
       }
 
