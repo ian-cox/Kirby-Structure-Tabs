@@ -3,6 +3,13 @@ Tabbed Fields for Structured Content
 
 ![Structure Tabs](/structure-tabs.gif)
 
+The structure tab field type is designed specifically for use within the structure field and will not work outside of that context.
+
+The structure tab field also has the ability to track which tab was open when the user closed the modal. Essentially each time you click on one of that tabs, you're checking the box for that group of content and unchecking the box for the other groups.
+
+This data can be useful in your templates. 
+
+
 #### Blueprint Example
 ``` YAML
 title: Page
